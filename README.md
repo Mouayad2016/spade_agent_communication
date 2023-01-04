@@ -16,7 +16,7 @@ And the calculations are:
 
 ## UML
 
-![image](https://user-images.githubusercontent.com/74218089/210497259-2a0f576a-02ee-4985-ae19-6f188f6e3498.png)
+![image](https://user-images.githubusercontent.com/74218089/210498846-b6f4a152-4022-443c-91d3-6b3e7e0e69df.png)
 
 
 References: 
