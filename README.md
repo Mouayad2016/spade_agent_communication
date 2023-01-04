@@ -16,8 +16,7 @@ And the calculations are:
 
 ## UML
 
-![image](https://user-images.githubusercontent.com/74218089/210498846-b6f4a152-4022-443c-91d3-6b3e7e0e69df.png)
-
+![image](https://user-images.githubusercontent.com/74218089/210498895-7b48e5ff-06a7-466f-ad17-ea2f9b348ab9.png)
 
 References: 
 -	https://www.kaggle.com/datasets/mylesoneill/world-university-rankings
